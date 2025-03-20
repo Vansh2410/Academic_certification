@@ -384,7 +384,7 @@ const Home = () => {
                   ))}
                 </ul>
                 <button className="w-full !rounded-button py-3 bg-gradient-to-r from-[#EC4899] to-[#2563EB] hover:opacity-90 transition-opacity cursor-pointer whitespace-nowrap">
-                  Get Started
+                  Get Started with Yash
                 </button>
               </div>
             ))}
